@@ -1,4 +1,4 @@
-# **Groww-Inspired Investment Platform**
+# **Groww Investment Platform** (Project)
 
 **Developer:** Suryanshu Nabheet  
 **Contact:** [suryanshunab@gmail.com](mailto:suryanshunab@gmail.com)  
